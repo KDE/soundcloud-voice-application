@@ -1,13 +1,10 @@
 [Desktop Entry]
 Categories=VoiceApp
-Comment[en_IN]=
 Comment=
 Exec=mycroft-gui-app --hideTextInput --skill=soundcloud-audio-player.aiix.home
-GenericName[en_IN]=
 GenericName=
 Icon=soundcloud-skill
 MimeType=
-Name[en_IN]=Soundcloud
 Name=Soundcloud
 Path=
 StartupNotify=false
